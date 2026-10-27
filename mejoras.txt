@@ -1,0 +1,9 @@
+
+MEJORAS DEL PROYECTO
+
+Integrante: 3 - Mejoras
+
+Se propone mejorar la organización de los archivos
+y documentar los cambios realizados.
+
+Estado: Mejora propuesta.
