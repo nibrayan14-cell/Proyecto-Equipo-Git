@@ -1,0 +1,9 @@
+
+FUNCIONALIDAD DEL PROYECTO
+
+Integrante: 2 - Desarrollo
+
+Esta funcionalidad permite registrar las tareas
+realizadas en el proyecto.
+
+Estado: En desarrollo.
